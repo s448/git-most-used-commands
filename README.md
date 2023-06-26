@@ -1,8 +1,6 @@
-<h2>Git is a powerful and complex tool with many features and options. However, here are some commonly used Git commands:
+<h2>Git is a powerful and complex tool with many features and options. However, here are some commonly used Git commands:</h2>
 
-1</h2>
-
-. git init: Initializes a new Git repository in the current directory.
+1. git init: Initializes a new Git repository in the current directory.
 2. git add: Adds changes to the staging area, preparing them for commit.
 3. git commit: Commits changes to the repository, with a message describing the changes.
 4. git clone: Creates a copy of a remote repository on your local machine.
